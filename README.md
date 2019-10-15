@@ -1,1 +1,4 @@
-# HYH
+文件主程序为app.py
+由于model文件大于25M无法上传因此没有上传
+需要model直接运行mnist_deep1.py即可
+
