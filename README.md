@@ -2,7 +2,7 @@
 
 由于model文件大于25M无法上传因此没有上传
 
-需要model直接运行mnist_deep1.py即可
+需要model直接运行mnist_deep1.py即可，提高预测精准度修改此文件中的训练步数即可
 
 pictures内为我处理好的28*28手写数字可以方便后来同学使用
 
